@@ -51,9 +51,7 @@ https://youtu.be/smSS2uq9dUo
 
 ## Research Context
 
-This project was developed as part of my final-year BSc Computer Science dissertation at the University of West London.
-
-The concept and implementation were independently developed by me as an original research idea inspired by challenges in diagnostic safety within healthcare.
+This project was developed as part of my final-year BSc Computer Science dissertation at the University of West London, reflecting my strong interest in applying technology to improve patient safety and healthcare delivery.
 
 **Dissertation Title:**
 Digital Automation of Jess's Rule: A Smart Alert System to Detect Repeat Patient Visits and Prevent Diagnostic Delays in Primary and Urgent Care
