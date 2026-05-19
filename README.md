@@ -35,10 +35,9 @@ https://youtu.be/smSS2uq9dUo
 
 - Python 3
 - Gradio
-- Pandas
 - Figma
 - PyCharm
-- GitHub
+- Google Forms (data collection and analysis)
 
 ## Measurable Outcomes
 
@@ -50,16 +49,18 @@ https://youtu.be/smSS2uq9dUo
 - Achieved an average clinical usefulness score of 4.15/5
 - 19 out of 26 participants agreed that the system could help identify patients at risk of diagnostic delay
 
-## Source Code
-
-The full source code is not publicly available at this time. However, the demonstration video and project overview provide a detailed explanation of the system design and functionality.
-
 ## Research Context
 
-This project was developed as part of my final-year BSc Computer Science (Health Informatics) dissertation at the University of West London.
+This project was developed as part of my final-year BSc Computer Science dissertation at the University of West London.
+
+The concept and implementation were independently developed by me as an original research idea inspired by challenges in diagnostic safety within healthcare.
 
 **Dissertation Title:**
 Digital Automation of Jess's Rule: A Smart Alert System to Detect Repeat Patient Visits and Prevent Diagnostic Delays in Primary and Urgent Care
+
+## Source Code
+
+The full source code is not publicly available at this time. However, the demonstration video and project overview provide a detailed explanation of the system design and functionality.
 
 ## Disclaimer
 
